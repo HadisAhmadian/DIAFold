@@ -13,9 +13,6 @@ Whole archive (≈ 32 MB): <https://zenodo.org/records/15420935>
 DOI: **10.5281/zenodo.15420935**
 
 ## Licensing & attribution
-Results were generated with the same tools used for the dataset:
-
-## Licensing & attribution
 * **TM-score** – BSD-style permissive license
 * **DIAMOND** – GPL-3.0-or-later
 * **MMseqs2** – MIT  

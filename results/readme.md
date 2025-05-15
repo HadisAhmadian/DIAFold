@@ -16,11 +16,10 @@ DOI: **10.5281/zenodo.15420935**
 Results were generated with the same tools used for the dataset:
 
 ## Licensing & attribution
-* **TM-score** – BSD-style permissive license (see `TMscore.cpp` header) :contentReference[oaicite:0]{index=0}  
-* **DIAMOND** – GPL-3.0-or-later :contentReference[oaicite:1]{index=1}  
-* **MMseqs2** – MIT :contentReference[oaicite:2]{index=2}  
-* **ColabFold** – MIT; wraps **AlphaFold** code under Apache 2.0 :contentReference[oaicite:3]{index=3}  
-
+* **TM-score** – BSD-style permissive license
+* **DIAMOND** – GPL-3.0-or-later
+* **MMseqs2** – MIT  
+* **ColabFold** – MIT; wraps **AlphaFold** code under Apache 2.0
 
 > Please cite this Zenodo record **and** the tools/competitions above if you use these results.
 

@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420896.svg)](https://doi.org/10.5281/zenodo.15420896)
 
-## What’s inside
+## Contents
 | Sub-folder | Contents |
 |------------|----------|
 | `fasta/` | FASTA sequences for 47 CASP14/15 targets |

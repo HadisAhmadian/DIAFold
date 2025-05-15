@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420935.svg)](https://doi.org/10.5281/zenodo.15420935)
 
 ## Contents
-| Sub-folder   | Contents (one-liner)                                                                 |
+| Sub-folder   | Contents                                                                 |
 |--------------|--------------------------------------------------------------------------------------|
 | `figures/`   | MSA coverage maps + search-sensitivity plots (TP, FP, AUC1) + prediction accuracy plots                     |
 | `metrics/`   | tables with RMSD, TM-score, GDT_TS, MaxSub, plus TP/FP/AUC1          |

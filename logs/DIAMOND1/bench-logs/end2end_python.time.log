@@ -1,0 +1,23 @@
+	Command being timed: "python3 ./scripts/star_alighnment_DIAMOND.py --fasta ./DBs/All_targets.fasta --hits ./Benchmark_runs/DIAMOND/result_20_e2e.tsv --out ./Benchmark_runs/DIAMOND/A3M_files"
+	User time (seconds): 240.04
+	System time (seconds): 6.35
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:11.42
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 5749728
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 117
+	Minor (reclaiming a frame) page faults: 1515930
+	Voluntary context switches: 10965
+	Involuntary context switches: 735
+	Swaps: 0
+	File system inputs: 4271768
+	File system outputs: 2224544
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

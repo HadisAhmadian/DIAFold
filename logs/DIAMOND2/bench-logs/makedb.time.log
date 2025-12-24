@@ -1,0 +1,108 @@
+diamond v2.1.15.169 (C) Max Planck Society for the Advancement of Science, Benjamin J. Buchfink, University of Tuebingen
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 20
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database input file: ./DBs/uniref50.fasta
+Opening the database file...  [0.016s]
+Loading sequences...  [8.518s]
+Masking sequences...  [2.636s]
+Writing sequences...  [0.864s]
+Hashing sequences...  [0.265s]
+Loading sequences...  [9.362s]
+Masking sequences...  [2.354s]
+Writing sequences...  [0.942s]
+Hashing sequences...  [0.282s]
+Loading sequences...  [9.234s]
+Masking sequences...  [2.326s]
+Writing sequences...  [0.997s]
+Hashing sequences...  [0.294s]
+Loading sequences...  [9.303s]
+Masking sequences...  [2.321s]
+Writing sequences...  [1.04s]
+Hashing sequences...  [0.311s]
+Loading sequences...  [10.916s]
+Masking sequences...  [2.346s]
+Writing sequences...  [1.087s]
+Hashing sequences...  [0.328s]
+Loading sequences...  [9.799s]
+Masking sequences...  [2.36s]
+Writing sequences...  [1.08s]
+Hashing sequences...  [0.342s]
+Loading sequences...  [10.087s]
+Masking sequences...  [2.393s]
+Writing sequences...  [1.142s]
+Hashing sequences...  [0.343s]
+Loading sequences...  [10.765s]
+Masking sequences...  [2.352s]
+Writing sequences...  [1.135s]
+Hashing sequences...  [0.364s]
+Loading sequences...  [11.301s]
+Masking sequences...  [2.446s]
+Writing sequences...  [1.098s]
+Hashing sequences...  [0.375s]
+Loading sequences...  [11.557s]
+Masking sequences...  [2.575s]
+Writing sequences...  [1.283s]
+Hashing sequences...  [0.385s]
+Loading sequences...  [12.086s]
+Masking sequences...  [2.395s]
+Writing sequences...  [1.38s]
+Hashing sequences...  [0.415s]
+Loading sequences...  [12.201s]
+Masking sequences...  [2.514s]
+Writing sequences...  [1.282s]
+Hashing sequences...  [0.444s]
+Loading sequences...  [13.012s]
+Masking sequences...  [2.491s]
+Writing sequences...  [1.646s]
+Hashing sequences...  [0.475s]
+Loading sequences...  [14.391s]
+Masking sequences...  [2.49s]
+Writing sequences...  [1.434s]
+Hashing sequences...  [0.518s]
+Loading sequences...  [15.637s]
+Masking sequences...  [2.55s]
+Writing sequences...  [2.081s]
+Hashing sequences...  [0.593s]
+Loading sequences...  [18.021s]
+Masking sequences...  [2.729s]
+Writing sequences...  [1.92s]
+Hashing sequences...  [0.691s]
+Loading sequences...  [20.724s]
+Masking sequences...  [2.471s]
+Writing sequences...  [2.527s]
+Hashing sequences...  [0.895s]
+Loading sequences...  [0s]
+Writing trailer...  [1.076s]
+Closing the input file...  [0s]
+Closing the database file...  [0.001s]
+
+Database sequences  58875981
+  Database letters  16875738790
+     Database hash  e0a3207725de20db797179e7a47db528
+        Total time  280s
+	Command being timed: "./diamond makedb --in ./DBs/uniref50.fasta -d ./Benchmark_runs/DIAMOND/reference"
+	User time (seconds): 971.26
+	System time (seconds): 74.48
+	Percent of CPU this job got: 373%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:40.20
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3983588
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 90
+	Minor (reclaiming a frame) page faults: 14757800
+	Voluntary context switches: 11262
+	Involuntary context switches: 4184
+	Swaps: 0
+	File system inputs: 47016656
+	File system outputs: 48343112
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

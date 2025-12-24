@@ -1,0 +1,23 @@
+	Command being timed: "taskset -c 0-15 ./mmseqs/bin/mmseqs search ./Benchmark_runs/mmseqs2/queryDB ./Benchmark_runs/mmseqs2/targetDB ./Benchmark_runs/mmseqs2/resultDB_T16_run1 ./Benchmark_runs/mmseqs2/tmp_T16_run1 --num-iterations 3 --db-load-mode 2 -a -e 0.1 --max-seqs 10000 --threads 16"
+	User time (seconds): 43400.21
+	System time (seconds): 1131.47
+	Percent of CPU this job got: 1205%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 1:01:32
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 20223476
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 525671
+	Minor (reclaiming a frame) page faults: 207704687
+	Voluntary context switches: 896649
+	Involuntary context switches: 70782
+	Swaps: 0
+	File system inputs: 111616768
+	File system outputs: 10694832
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

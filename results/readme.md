@@ -1,14 +1,33 @@
 # results/
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420935.svg)](https://doi.org/10.5281/zenodo.15420935)
+This repository contains results and benchmark outputs of DIAFold: evaluating MSA quality, structure prediction performance, and comparisons across different pipelines and tools.
 
-## Contents
-| Sub-folder   | Contents                                                                 |
-|--------------|--------------------------------------------------------------------------------------|
-| `figures/`   | MSA coverage maps + search-sensitivity plots (TP, FP, AUC1) + prediction accuracy plots                     |
-| `metrics/`   | tables with RMSD, TM-score, GDT_TS, MaxSub, plus TP/FP/AUC1          |
+## Directory Structure
+```
+results/
+├── Full Benchmark Pairwise Tests/
+├── JackHMMer/
+├── low and very low homology/
+├── MSA_qualities_diamond.csv
+├── MSA_qualities_mmseqs.csv
+├── strct_metrics_ESM.csv
+├── strct_metrics_SingleAF.csv
+├── strct_metrics_diamond.csv
+├── strct_metrics_mmseqs.csv
+├── timing.xlsx
+└── readme.md
+```
+
+## Additional Results (Zenodo)
+
+**Additional results for this project are fully available on Zenodo.**  
+These supplementary materials include:
+- All **coverage maps**
+- All **predicted protein structures**
+
 
 ## Download
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420935.svg)](https://doi.org/10.5281/zenodo.15420935)
 Whole archive (≈ 32 MB): <https://zenodo.org/records/15420935>  
 DOI: **10.5281/zenodo.15420935**
 

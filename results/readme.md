@@ -27,9 +27,12 @@ These supplementary materials include:
 
 
 ## Download
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15420935.svg)](https://doi.org/10.5281/zenodo.15420935)
-Whole archive (≈ 32 MB): <https://zenodo.org/records/15420935>  
-DOI: **10.5281/zenodo.15420935**
+[<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/cd3ccbf8-1e12-41c6-9011-1c04dfc6b474" />](https://doi.org/10.5281/zenodo.18041891)
+
+
+
+
+DOI: **10.5281/zenodo.18041891**
 
 ## Licensing & attribution
 * **TM-score** – BSD-style permissive license

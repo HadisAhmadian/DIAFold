@@ -27,7 +27,7 @@ These supplementary materials include:
 
 
 ## Download
-[<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/cd3ccbf8-1e12-41c6-9011-1c04dfc6b474" />](https://doi.org/10.5281/zenodo.18041891)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18041891.svg)](https://doi.org/10.5281/zenodo.18041891)
 
 additional results(~350 MB) available at https://doi.org/10.5281/zenodo.18041891
 
